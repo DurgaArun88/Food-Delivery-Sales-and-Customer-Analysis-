@@ -131,6 +131,8 @@ The SQL query results were exported as CSV files and imported into Google Sheets
 - Time-of-day analysis
 
 [View Food Sales and Customer Analysis Dashboard](./FoodAnalysis%20-%20Dashboard.pdf)
+[Data Cleaning](./sql_queries/data_cleaning.sql)
+[BusinessAnalysisQueries](./sql_queries/business_analysis.sql)
 
 ## Conclusion
 
