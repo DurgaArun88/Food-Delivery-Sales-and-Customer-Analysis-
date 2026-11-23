@@ -5,7 +5,8 @@
 This project analyses restaurant order data to understand sales performance, customer ordering behaviour, restaurant performance, cuisine preferences and ordering patterns.
 
 ## Business Problem
-Food delivery platforms receive orders from multiple restaurants. They need to understand restaurant sales performance, customer ordering behaviour, cuisine preferences, and peak ordering periods to improve their business operations.
+Food delivery platforms handle orders from multiple restaurants and generate large amounts of order data. Without proper analysis, it can be difficult to identify which restaurants perform well, which zones generate more revenue, and when customer demand is highest.
+Understanding these patterns can help the platform make better business decisions and improve its operations.
 
 ## Project Objective
 
