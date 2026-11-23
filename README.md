@@ -4,7 +4,12 @@
 ## Project Overview
 This project analyses restaurant order data to understand sales performance, customer ordering behaviour, restaurant performance, cuisine preferences and ordering patterns.
 
-The objective is to extract meaningful business insights using SQL and present the findings through a Google Sheets dashboard.
+## Business Problem
+Food delivery platforms receive orders from multiple restaurants. They need to understand restaurant sales performance, customer ordering behaviour, cuisine preferences, and peak ordering periods to improve their business operations.
+
+## Project Objective
+
+The objective of this project is to analyse restaurant order data using MySQL and present meaningful business insights through a dashboard in Google Sheets.
 
 ## Tools and Technologies
 - **MySQL 8.0** – Data cleaning, transformation and analysis
